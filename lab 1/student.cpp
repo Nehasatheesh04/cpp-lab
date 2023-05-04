@@ -33,7 +33,7 @@ void student:: input(void)
 }
 char student::calcgrade(void)
 {
-    int sum,avg;
+    float sum,avg;
     char grade;
 
     for(int i=0;i<3;i++)
